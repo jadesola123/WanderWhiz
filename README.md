@@ -1,5 +1,5 @@
 # WanderWhiz
-WanderWhiz is an interactive chatbot that assists users in planning their travel itineraries, suggests destinations, and provides relevant information such as flights, hotels, and attractions.
+WanderWhiz is an interactive chatbot that assists users in planning their travel itineraries, suggests destinations, and provides relevant information such as flights, hotels, and attractions. THis is my final project from the Shecode Africa cloud school and my submission for #GitHubHack23
 
 It is a three tier application
 
