@@ -1,3 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5; /* Light gray background */
+}
+
 .container {
   max-width: 800px;
   margin: 0 auto;
@@ -6,7 +11,8 @@
 }
 
 h1 {
-  color: #c4c4c4;
+  color: #f44336; /* Pink color */
+  font-size: 24px;
   margin-top: -20px;
 }
 
@@ -15,22 +21,22 @@ h1 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
-  color: #f5f5f5; /* Off white color */
+  color: #333333; /* Dark gray color */
 }
 
 .animation {
-  margin-top: -10px; /* Adjust the margin-top value as needed */
+  margin-top: -10px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .smiley {
-  width: 30px; /* Adjust the width value as needed */
-  height: 30px; /* Adjust the height value as needed */
-  background: yellow;
+  width: 30px;
+  height: 30px;
+  background: pink;
   border-radius: 50%;
   animation: rotate-animation 2s infinite linear;
 }
@@ -66,26 +72,26 @@ p {
 }
 
 .icon {
-  margin-top: 40px; /* Adjust the margin-top value as needed */
+  margin-top: 40px;
 }
 
 .icon i {
   font-size: 24px;
-  color: #f5f5f5; /* Off white color */
+  color: #333333; /* Dark gray color */
 }
 
 button {
-  background-color: #008000;
-  color: #f5f5f5; /* Off white color */
+  background-color: #f44336; /* Pink color */
+  color: #ffffff; /* White color */
   padding: 10px 20px;
-  font-size: 18px;
+  font-size: 16px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.3s ease;
-  margin-top: 220px; /* Adjust the margin-top value as needed */
+  margin-top: 220px;
 }
 
 button:hover {
-  background-color: #075931; /* Darker shade of green */
+  background-color: #ff1744; /* Darker shade of pink */
 }
