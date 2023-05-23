@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #eb9ed7 !important;
+  background-color: #eb9ed7;
   font-family: "Poppins", sans-serif;
 }
 
@@ -18,7 +18,7 @@ body {
   margin: 0 auto;
   text-align: center;
   padding: 20px;
-  color: #eb9ed7; /* Off white color */
+  color: #f5f5f5; /* Off white color */
 }
 
 h1 {
